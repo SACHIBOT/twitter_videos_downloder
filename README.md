@@ -16,6 +16,3 @@ Clone repository and:
 The robot users information will be saved in  `./statistics/users.json` .
 
 this file will be automatically created.
-
-## Further help
-visit [mohamad](http://mohamad.js.org) or send e-mail: [deylami.developer@gmail.com](mailto:deylami.developer@gmail.com)
